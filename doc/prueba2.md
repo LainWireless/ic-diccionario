@@ -1,3 +1,3 @@
-# Titulo rexulo
-## Ottro encabesao
-Muxo testo.
+# Título
+## Otro encabezado
+Mucho texto.
