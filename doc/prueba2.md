@@ -1,3 +1,3 @@
-# Título
-## Otro encabezado
-Mucho texto.
+# Ttulo
+## Ottro encabesado
+Muxo texto.
